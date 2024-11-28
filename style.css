@@ -94,6 +94,6 @@ button{
     filter:drop-shadow(2px 2px 10px black);
     display:none
 }
-.hero{
+#hero{
     color: white;
 }
